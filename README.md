@@ -1,4 +1,4 @@
-# Tips dataset Review
+# Tips Dataset Review
 Jupyter Notebook for Fundamental of Data Analysis Tips assessment
 
 ## Table of Contents
