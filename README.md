@@ -1,4 +1,4 @@
-# FoDA-Assessment
+# Tips dataset Review
 Jupyter Notebook for Fundamental of Data Analysis Tips assessment
 
 ## Table of Contents
